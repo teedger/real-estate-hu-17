@@ -1,7 +1,7 @@
-import HorooReport from './horoo17_full_report_1'
+import Dashboard from './horoo17_full_report_1'
 
 function App() {
-  return <HorooReport />
+  return <Dashboard />
 }
 
 export default App
